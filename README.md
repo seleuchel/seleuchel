@@ -3,7 +3,7 @@ I'm interested in IT/ICS Cyber Security, Cyber Threat Intelligence.:star2:
 
 
 <!-- SNS/BLOG -->
-<img src="https://img.shields.io/badge/-Tistory-%23EC5219?style=flat-square&logo=Gitea&logoColor=white"/> <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=LinkedIn&logoColor=white" a="https://naver.com"/> <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Tistory-%23EC5219?style=flat-square&logo=Gitea&logoColor=white"/> <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=LinkedIn&logoColor=white" a="https://naver.com"/> <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white"/> <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white"/> 
 
 
 ### :sparkles:Skills
