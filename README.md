@@ -1,4 +1,4 @@
-### Hi! I'm a graduate student👋
+### Hi!👋
 I'm interested in IT/ICS Cyber Security, Cyber Threat Intelligence.:star2:
 
 
