@@ -14,5 +14,3 @@ I'm interested in IT/ICS Cyber Security, Cyber Threat Intelligence.:star2:
 <!-- Tool -->
 <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seleuchel&show_icons=true&theme=radical)
