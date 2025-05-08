@@ -10,7 +10,7 @@ I'm interested in IT/ICS Cyber Security, Cyber Threat Intelligence.:star2:
 <!-- Language -->
 <img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java&logoColor=white"/> 
 <!-- Platform -->
-<img src="https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=MongoDB&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=MongoDB&logoColor=white"/> 
 <!-- Tool -->
 <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
